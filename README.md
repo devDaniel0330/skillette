@@ -7,4 +7,4 @@ Skills are like a set of "instructions" created in order to standardize what age
 Another thing is to ensure that you yourself also understand what your AI agents will work on in the background. Remember, you are the one who is controlling what your AI agents are doing, not the other way around.
 
 ## What kind of skills will be included here?
-As I'm writing this, I still don't have a sure plan yet. But, I will definitely expand the coverage of other aspects such as creating proposals and specific documentations in the future. Firstly, I would most likely start with JavaScript and Typescript. And for each of them, they have many frameworks used especially for JavaScript such as Next.js, Vue.js etc.
+As I'm writing this, I still don't have a sure plan yet. But, I will definitely expand the coverage of other aspects such as creating proposals and specific documentations in the future. Firstly, I would most likely start with JavaScript and Typescript. They have many popular frameworks used by many people such as Next.js, Vue.js etc.
