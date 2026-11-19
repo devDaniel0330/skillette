@@ -11,4 +11,4 @@ As I'm writing this, I still don't have a sure plan yet. But, I will definitely 
 
 ## Notes
 
-Feel free to modify the skills according to your respective requirements, although it has been mentioned already in each SKILL.md file to take priority of user's requirements. Certain bullet points or statements that end with "...appropriate" are vague, I suggest to change these bullet points/statements a bit to clarify on the specifics. Just an optional suggestion. 
+Feel free to modify the skills according to your respective requirements, although it has been mentioned already in each SKILL.md file to take priority of user's requirements. Certain bullet points or statements that end with "...where/when appropriate" are vague, I suggest changing these bullet points/statements a bit to clarify on the specifics. Just an optional suggestion.
