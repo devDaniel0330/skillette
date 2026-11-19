@@ -2,7 +2,7 @@
 Welcome to skillette!! In here, there will be tons of markdown (md) files here containing various kinds of skills you may use to feed into your AI Agents.
 
 ## What are skills and what is the purpose of having these skills?
-Skills are like a set of "instructions" created in order to standardize what agents should be working on. Having a clear set of instructions for your agent helps to ensure it does not go off the rails or too far as in like over-accomplishing things. That is the real purpose of skills.
+Skills are like a set of "instructions" created in order to standardize what agents should be working on. Having a clear set of instructions for your agent helps to ensure it does not go off the rails or too far as in like over-accomplishing things. That is the real purpose of skills. Handling repetitive task is also another purpose of having skills.
 
 Another thing is to ensure that you yourself also understand what your AI agents will work on in the background. Remember, you are the one who is controlling what your AI agents are doing, not the other way around.
 
