@@ -8,3 +8,7 @@ Another thing is to ensure that you yourself also understand what your AI agents
 
 ## What kind of skills will be included here?
 As I'm writing this, I still don't have a sure plan yet. But, I will definitely expand the coverage of other aspects such as creating proposals and specific documentations in the future. Firstly, I would most likely start with JavaScript and Typescript. They have many popular frameworks used by many people such as Next.js, Vue.js etc.
+
+## Notes
+
+Feel free to modify the skills according to your respective requirements, although it has been mentioned already in each SKILL.md file to take priority of user's requirements. Certain bullet points or statements that end with "...appropriate" are vague, I suggest to change these bullet points/statements a bit to clarify on the specifics. Just an optional suggestion. 
